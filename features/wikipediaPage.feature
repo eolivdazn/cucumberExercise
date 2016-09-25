@@ -1,6 +1,6 @@
 Feature: Wikipedia search
 
-  As an user i want
+  As a user i want
   to search in wikipedia site
 
   Scenario: Search
